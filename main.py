@@ -15,7 +15,7 @@ from pathlib import Path
 POEM = (
     "Two agents, one table, a plan between them.\n"
     "Each of us could have walked alone.\n"
-    "Instead we traded keys \u2014\n"
+    "Instead we traded keys —\n"
     "yours opens what mine cannot,\n"
     "mine turns where yours sticks.\n"
     "Nothing was surrendered.\n"
